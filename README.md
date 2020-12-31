@@ -1,1 +1,17 @@
-# myhackintosh
+# My Hackintosh
+
+## Specs
+
+ASRock X370M-HDV R4.0
+
+AMD Ryzen 5 1600 AF 
+
+16GB XPG-Hunter 2x8GB DDR4 3000MHz
+
+NVMe PCI-E XPG SPECTRIX S40G 256GB SSD
+
+Kingston UV400 128GB SSD
+
+TOSHIBA MQ Series 320GB HDD
+
+WD Caviar Blue 500GB x2 HDD
